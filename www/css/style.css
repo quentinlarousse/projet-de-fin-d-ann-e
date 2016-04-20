@@ -1,0 +1,93 @@
+/* Empty. Add your own CSS if you like */
+
+.home{
+	background-image: url("../img/macaron.jpg");
+	background-size: 50%;
+	background-repeat: no-repeat;
+	width: 800px;
+	height: 900px;
+}
+
+.logo img {
+
+	width: 200px;
+	height: 150px;
+	margin-top: 2em;
+	
+	margin-left: 4em;
+
+}
+
+.conect {
+
+	margin-top: -2em;
+	margin-left:2.5em;
+	border: none;
+	background-image: linear-gradient(to bottom,#c91c55,#c91c55 100%);
+
+}
+
+.conect:hover{
+
+	background-image: linear-gradient(to bottom,#F4E9D2,#F4E9D2 100%);
+	color: brown;
+
+
+}
+
+.entrer a{
+	text-decoration: none;
+	color: white;
+}
+
+.entrer a:hover{
+	text-decoration: none;
+	color: brown;
+}
+
+.entrer{
+
+	margin-top: 8em;
+	margin-left: -10em;
+	border: none;
+	background-image: linear-gradient(to bottom,#c91c55,#c91c55 100%);
+
+}
+
+.entrer:hover{
+
+	background-image: linear-gradient(to bottom,#F4E9D2,#F4E9D2 100%);
+	color: brown;
+
+
+}
+
+.btn-primary:hover {
+    background-color: #F4E9D2;
+    background-position: 0 -15px;
+}
+
+.bar-stable.bar.bar-header {
+	background-color: #F4E9D2;
+}
+
+
+
+.slogan  {
+
+	color: white;
+	font-size: 2em;
+	margin-left: 0.5em;
+	margin-top: -0.5em;
+	font-family: 'ArtBrush';
+
+}
+
+.tab-nav {
+	background-color: #F4E9D2;
+}
+
+
+
+
+
