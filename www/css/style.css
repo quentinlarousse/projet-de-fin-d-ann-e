@@ -1,11 +1,211 @@
 /* Empty. Add your own CSS if you like */
 
-.home{
+.prehome{
 	background-image: url("../img/macaron.jpg");
 	background-size: 50%;
 	background-repeat: no-repeat;
-	width: 800px;
+	width: 1000px;
 	height: 900px;
+}
+
+
+.home2{
+	width: 600px;
+	height: 900px;
+
+	background-image:linear-gradient(#c91c55, #5c0926);
+	
+
+	
+}
+
+
+#moncercle1{
+
+  background: #400005;
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  border:2px solid white; 
+  margin-left: 2em;
+  margin-top: 2em;
+}
+
+#moncercle1 img {
+	margin-left: 1em;
+	margin-top: 1em;
+	width: 65px;
+	height: 65px;
+}
+#moncercle2 img {
+	margin-left: 1em;
+	margin-top: 1em;
+	width: 65px;
+	height: 65px;
+}
+#moncercle4 img {
+	margin-left: 1em;
+	margin-top: 1em;
+	width: 65px;
+	height: 65px;
+}
+#moncercle3 img {
+	margin-left: 1em;
+	margin-top: 1em;
+}
+#moncercle5 img {
+	margin-left: 1em;
+	margin-top: 1em;
+}
+#moncercle6 img {
+	margin-left: 1em;
+	margin-top: 1em;
+}
+
+#moncercle2{
+  background:#400005;
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  border:2px solid white; 
+  margin-left: 2em;
+  margin-top: 2em;
+}
+#moncercle3{
+  background:#400005;
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  border:2px solid white; 
+  margin-left: 2em;
+  margin-top: 2em;
+}
+#moncercle4{
+  background:#400005;
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  border:2px solid white; 
+  margin-left: 2em;
+  margin-top: 2em;
+}
+#moncercle5{
+  background:#400005;
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  border:2px solid white; 
+  margin-left: 2em;
+  margin-top: 2em;
+}
+#moncercle6{
+  background:#400005;
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  border:2px solid white; 
+  margin-left: 2em;
+  margin-top: 2em;
+}
+
+#moncercle0{
+  background:#400005;
+  border-radius:50%;
+  width:100px;
+  height:100px;
+  border:2px solid white; 
+  margin-left: 8em;
+  margin-top: 1em;
+}
+
+#moncercle0 p{
+	color: white;
+	font-size: 1.5em;
+	margin-top: 1.5em;
+	margin-left: 0.5em;
+	font-family: 'neos';
+}
+
+
+
+.ingre{
+	text-align: center;
+	color: white;
+	font-family: 'neos';
+	margin-top: -1em;
+	margin-left: -6em;
+	font-size: 2em;
+
+
+}
+
+.etoile img{
+
+	width: 100px;
+	height: 100px;
+	margin-left: 8em;
+
+}
+.etoile2 img{
+
+	width: 100px;
+	height: 100px;
+	margin-left: 8em;
+	margin-top: 2em;
+	
+}
+.etoile3 img{
+
+	width: 100px;
+	height: 100px;
+	margin-left: 8em;
+	margin-top: 2em;
+	
+}
+.dure{
+	text-align: center;
+	color: white;
+	font-family: 'neos';
+	margin-top: -1.5em;
+	margin-left: -6em;
+	font-size: 2em;
+
+
+}
+
+
+
+.suivant img{
+	margin-left: 11em;
+	margin-top: 2em;
+}
+
+.chef img{
+
+	width: 40px;
+	height: 40px;
+	margin-left: 7em;
+	margin-top: -2em;
+}
+
+.time img{
+
+	width: 40px;
+	height: 40px;
+	margin-left: 8em;
+
+	
+}
+
+
+
+.suivant button {
+
+	background-color: #F4E9D2;
+	margin-top: 5em;
+	margin-left: 10em;
+	color: brown;
+
 }
 
 .logo img {
@@ -18,57 +218,73 @@
 
 }
 
-.conect {
-
-	margin-top: -2em;
-	margin-left:2.5em;
-	border: none;
-	background-image: linear-gradient(to bottom,#c91c55,#c91c55 100%);
-
+.myButton {
+	background-color:#c91c56;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #c91c56;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #c91c56;
+	margin-top: 3em;
 }
-
-.conect:hover{
-
-	background-image: linear-gradient(to bottom,#F4E9D2,#F4E9D2 100%);
-	color: brown;
-
-
-}
-
-.entrer a{
+.myButton:hover {
+	background-color:#c91c56;
 	text-decoration: none;
 	color: white;
 }
+.myButton:active {
+	position:relative;
+	top:1px;
+}
 
-.entrer a:hover{
+.myButton2 {
+	background-color:#c91c56;
+	-moz-border-radius:28px;
+	-webkit-border-radius:28px;
+	border-radius:28px;
+	border:1px solid #c91c56;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #c91c56;
+	margin-top: 3em;
+	margin-left: 8em;
+
+}
+.myButton2:hover {
+	background-color:#c91c56;
 	text-decoration: none;
-	color: brown;
+	color: white;
+}
+.myButton2:active {
+	position:relative;
+	top:1px;
 }
 
-.entrer{
+.logod img{
 
-	margin-top: 8em;
-	margin-left: -10em;
-	border: none;
-	background-image: linear-gradient(to bottom,#c91c55,#c91c55 100%);
-
+	width: 120px;
+	height: 100px;
+	
+	margin-left: 10em;
 }
 
-.entrer:hover{
-
-	background-image: linear-gradient(to bottom,#F4E9D2,#F4E9D2 100%);
-	color: brown;
 
 
-}
-
-.btn-primary:hover {
-    background-color: #F4E9D2;
-    background-position: 0 -15px;
-}
 
 .bar-stable.bar.bar-header {
-	background-color: #F4E9D2;
+	background-color: #c91c56;
 }
 
 
